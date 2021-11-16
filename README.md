@@ -1,2 +1,2 @@
 # cnn_pytorch
-Convolutional neural network build with Python and Pytorch for recognizing handwritten letters from MNIST dataset
+Convolutional neural network built with python and pytorch for recognizing handwritten letters from MNIST dataset
